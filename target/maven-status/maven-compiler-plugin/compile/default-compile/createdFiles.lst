@@ -1,0 +1,6 @@
+com\tuyweb\web_login\ResuelSet.class
+com\tuyweb\web_login\logger.class
+com\tuyweb\web_login\JakartaRestConfiguration.class
+com\tuyweb\web_login\Register.class
+com\tuyweb\web_login\resources\JakartaEE10Resource.class
+com\tuyweb\web_login\Login.class
